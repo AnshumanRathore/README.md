@@ -10,3 +10,9 @@ const gameName=new String(`Anshu`)
 console.log(gameName[0]);
 console.log(gameName.length);
 console.log(gameName.toLowerCase());
+
+//replace
+const url="https://github.com/Anshuman%20Rathore"
+console.log(url.replace('%20',''));
+console.log(url.includes('Anshu'));
+console.log(url.split('.')); //splites
