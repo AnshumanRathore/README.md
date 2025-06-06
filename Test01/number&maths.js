@@ -22,5 +22,12 @@ console.log(Math.ceil(3.56));
 console.log(Math.floor(3.56));
 console.log(Math.max(332,45,67,87,44,32,3.56));
 
+console.log(Math.random());
+console.log((Math.random()*10)+1);
+console.log(Math.floor(Math.random()*10)+1);
+
+const min=33
+const max=100
+console.log(Math.floor(Math.random()*(max-min+1))+min)
 
 
