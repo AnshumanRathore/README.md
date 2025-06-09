@@ -11,4 +11,4 @@ console.log(user.name);
 console.log(user["location"]);
 console.log(user.days);
 
-
+//Symbol datatype (Primitive values)
